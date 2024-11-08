@@ -12,4 +12,5 @@ My data science and analytics projects
 ## Contact Me
 reach out to me at Warongkorn123@gmail.com
 
-![Deadpool](https://variety.com/wp-content/uploads/2024/07/MCDDEAN_WD034.jpg?w=1000&h=667&crop=1)
+## Deadpool
+![Deadpool](https://variety.com/wp-content/uploads/2024/07/MCDDEAN_WD034.jpg)
