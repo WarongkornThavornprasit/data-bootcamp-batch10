@@ -8,3 +8,6 @@ My data science and analytics projects
 3. R programming
 4. Looker GA4 Dashboard
 5. Liner Regression Model using caret
+
+## Contact Me
+reach out to me at Warongkorn123@gmail.com
